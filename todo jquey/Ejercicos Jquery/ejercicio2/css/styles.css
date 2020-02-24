@@ -1,0 +1,14 @@
+.principal{
+	margin: 0 auto;
+	width: 80%;
+}
+
+tr:nth-child(even) {
+  background-color: #EC7063  ;
+}
+table tr:nth-child(odd) {
+    background-color: #58D68D;
+}
+th{
+background-color: #ffffff ;
+}

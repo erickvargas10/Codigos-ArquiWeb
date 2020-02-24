@@ -1,0 +1,22 @@
+body{
+    background-color: #e8e8e7;
+}
+
+.article-title-1{
+	font-weight: bold
+}
+.imagen{
+  padding-top: 15px;
+}
+.lineas {
+  height: 10px;/*altura de linea*/
+  background-color: #8bcc98;
+padding-top: 20px;
+}
+.section{
+  margin: 0 auto;
+  width: 600px;
+  background-color: #ffffff;
+  padding-top: 40px;
+
+}

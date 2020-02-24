@@ -1,0 +1,24 @@
+.container{
+	margin: 0 auto;
+	width: 80%;
+	text-align: justify;
+	background-color: #eeeeee;
+	border: 2px solid white;
+}
+
+tr:nth-child(even) {
+  background-color: #EC7063  ;
+}
+table tr:nth-child(odd) {
+    background-color: #58D68D;
+}
+th{
+background-color: #E5E8E8  ;
+}
+
+.tip{
+		background-color: #ffcc99;
+		padding: 10px;
+		display: none;
+		position: absolute;
+	}

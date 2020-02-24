@@ -1,0 +1,75 @@
+/*menu*/
+body{
+	font-family: Arial;
+}
+.container{
+margin:0 auto;
+ max-width: 1000px;
+}
+h3{
+	color: #708090;
+	 font-weight: bold;
+}
+h5{
+	color: #708090;
+	 font-weight: bold;
+}
+
+p{
+	color: #708090;
+}
+/*fondo colores*/
+.part1{
+background-color: #000000;
+}
+/*Navbar*/
+.navbar-brand {
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar .navbar-brand {
+	color: #ffffff;
+}
+.navbar .navbar-nav .nav-item{
+	color: #ffffff;
+}
+
+.subcontainer2{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+/*fondo colores*/
+.part2{
+background-color: #F08080;
+color: #ffffff;
+padding-right: 30px;
+	padding-left: 30px;
+}
+.subcontainer3{
+	background-color: #000000;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.subcontainer4{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+
+.subcontainer5 p{
+color: #ffffff;
+
+}
+
+.subcontainer5 h3{
+
+color: #ffffff;
+}
+/*fondo ingresar items*/
+form{
+	padding-left: 30px;
+
+}
+.form-control{
+	background-color: #CD5C5C;
+}

@@ -1,0 +1,42 @@
+.principal {
+	margin: 0 auto;
+	width: 920px;
+}
+.titles{
+  margin-left: 500px;/*mover objetos hacia la derecha*/
+  color: #BCBBBB;
+}
+h3{
+    margin-left: 40px;
+}
+h2{
+  color: #BCBBBB;
+}
+.lineas {
+  height: 10px;/*altura de linea*/
+  background-color: #BCBBBB;
+  width: 850px;
+
+}
+.parte1 {
+	display: flex;
+	flex-direction: row;
+}
+
+.contenidos {
+	display: flex;
+	flex-direction: row;
+}
+.txt{
+margin-left: 70px;
+font-weight: bold;
+color: #747704;
+}
+.link{
+margin-left: 25px;
+color: #BCBBBB;
+}
+
+.imagenes{
+margin-left: 25px;
+}

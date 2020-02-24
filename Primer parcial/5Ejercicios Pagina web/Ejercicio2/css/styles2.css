@@ -1,0 +1,30 @@
+body{
+    background-color: #e8e8e7;
+}
+.principal{
+margin: 0 auto;
+width: auto;/*ayuda anchar o ensanchar las propiedades*/
+}
+.imagen{
+  width: 500px;
+}
+.lineas {
+  height: 10px;/*altura de linea*/
+  background-color: #8bcc98;
+  margin: 0 auto;
+
+
+}
+
+
+.Parrafos{
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 500px;
+
+
+}
+.parra1{
+  padding-top: 10px;
+  font-family: "Arial"
+}

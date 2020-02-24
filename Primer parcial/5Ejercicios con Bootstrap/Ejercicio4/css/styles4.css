@@ -1,0 +1,29 @@
+body{
+	background-color: #FFFFFF;
+}
+
+.section-title h1{
+	text-align: right;
+	font-weight: bold
+}
+.section-title h3{
+	margin: 0 auto;
+	text-align: right;
+}
+.franja{
+	height: 5px;
+	background-color: #D0C4AB;
+	margin: 0 auto;
+}
+
+.container{
+	padding-top: 20px;
+	background-color: #131A2D;
+}
+.card-title{
+	color: #D0C4AB;
+
+}
+.card-text{
+	color: #D0C4AB;
+}

@@ -1,0 +1,23 @@
+.Principal{
+padding-top: 10%;/*hace que lo siguiente se traslade un poco mas abajo*/
+background-color: #ffffff;
+margin: 0 auto;
+width: 520px; /*ayuda anchar o ensanchar las propiedades*/
+}
+.Titulo{
+	background-color: #33bebe;
+	color: #ffffff;
+	font-family: "Arial"
+	padding-left: 10px;
+	padding-top: 20px;
+}
+.Contenido{
+	display: flex;/*cambiala direccion a columnas*/
+	flex-direction: row;
+	padding-left: 0px;
+}
+.Parrafo{
+	margin: 0;
+	color: #7C8B88;
+	padding-left: 10px;
+}

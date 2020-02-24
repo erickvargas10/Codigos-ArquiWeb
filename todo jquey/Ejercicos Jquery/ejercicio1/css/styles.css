@@ -1,0 +1,21 @@
+/*menu*/
+body{
+	font-family: Arial;
+}
+.principal{
+margin:0 auto;
+ max-width: 1000px;
+}
+h3{
+	color: #708090;
+	 font-weight: bold;
+}
+p{
+	color: #708090;
+}
+button {
+    background: blue;
+    color: white;
+    border-radius: 30px 30px;
+    padding: 10px;
+}

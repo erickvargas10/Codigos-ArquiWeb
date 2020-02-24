@@ -1,0 +1,11 @@
+.container{
+	margin: 0 auto;
+	width: 80%;
+	text-align: justify;
+	background-color: #eeeeee;
+	border: 2px solid white;
+}
+
+label{
+	font-weight: bold;
+}

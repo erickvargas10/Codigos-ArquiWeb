@@ -1,0 +1,53 @@
+/*siempre llevar un orden*/
+/*GENERAL*/
+.btn{
+	border-radius: 25px;
+}
+.btn-outline-ligth{
+	color: #000000;
+	border-color:#999999;
+}
+/*Navbar*/
+.navbar-brand{
+
+	font-size: 30px; /*tamaño de letra */
+	font-weight: bold;/*fondo de letra mas negrita*/
+}
+ /*puedo sobreescribir los coleres con important*/
+.navbar a{
+	color: #000000; /*puedo sobreescribir los coleres con important*/
+}
+
+.navbar {
+	background-color: #ffffff !important; /*puedo sobreescribir los coleres con important*/
+}
+/*jumbotron*/
+.background-page {
+	background-color: #ffe1bd;
+}
+.jumbotron hr{
+	border-top: 2px solid rgba(0,0,0,1) ;/*anchura de la linea hasta solid puede ser rgba es color*/
+	width: 50px;/*tamaño de la linea en el centro*/
+}
+.jumbotron .btn{
+	margin-top: 4px; /*para hacerle mas largo al boton o directamente en el bootstrap*/
+}
+
+/*SECCIONES*/
+.section-title{
+	font-size:50px;/*titulos de las secciones*/
+	text-align: center;
+}
+
+.article-title-1{
+	font-size: 20px;
+}
+.article-title-2{
+	font-size: 32px;
+}
+.section hr{/*para que la linea se quede a la izquierda*/
+	margin-left:0px;
+}
+.card{
+	width: 13rem;/*unidades de medida para web em ; y la rem tamaño de fuente base relativo*/
+}

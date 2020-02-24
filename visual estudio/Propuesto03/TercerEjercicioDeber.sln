@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TercerEjercicioDeber", "TercerEjercicioDeber\TercerEjercicioDeber.csproj", "{F09FC57C-50AF-4E41-8359-B8B06FD9F35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09FC57C-50AF-4E41-8359-B8B06FD9F35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09FC57C-50AF-4E41-8359-B8B06FD9F35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09FC57C-50AF-4E41-8359-B8B06FD9F35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09FC57C-50AF-4E41-8359-B8B06FD9F35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69950DE1-BC54-4818-A51A-7056DBA9CF45}
+	EndGlobalSection
+EndGlobal

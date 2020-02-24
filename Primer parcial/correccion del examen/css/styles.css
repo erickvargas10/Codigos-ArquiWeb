@@ -1,0 +1,115 @@
+.padding{
+	padding : 60px;
+
+}
+.nav-main{
+	color: white !important;
+	background-color: #2d303a!important;
+
+}
+.navbar h1 {
+    font-size: 30px;
+    font-weight: none;
+    color: rgba(255, 255, 255)!important;
+    margin-right: 2px;
+}
+.red{
+	font-size: 30px;
+	color: #f06c64!important;
+}
+.nav-item1{
+	font-size: 15px;
+    font-weight: none;
+    color: white;
+    margin-right: 20px;
+    color: rgba(255, 255, 255)!important;
+}
+.nav-item1:hover{
+color: #f06c64 !important;
+}
+
+.ex1:hover{color: #f06c64;
+border: 1px solid #f06c64;
+}
+
+
+.nav2:hover{
+	color: #c5c5c5;
+border: 1px solid #c5c5c5;
+}
+
+
+
+.style-navbar{
+	color: #666d89;
+	border: 1px solid #666d89;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 10px;
+
+}
+
+.font-griss{
+background-color: #f2f2f2;
+color: #666d89;
+}
+.font-negro{
+	color:#666d89;
+	background-color: #2d303a
+
+
+}
+
+.card{
+	border: none;
+	background-color:#f1f1f1;
+}
+.card-body2{
+padding: 10px;
+}
+.bold{
+	font-weight: bold;
+}
+
+.form{
+	background-color: #f06c64;
+	color: #f0d8d9;
+	text-align: justify;
+}
+
+.galeria{
+	margin-bottom: 15px;
+}
+.cont:hover{
+	color: #f06c64;
+ opacity: 0.1;
+
+}
+.col-md-5 p{
+font-size: 13px;
+
+}
+
+.form-control{
+	color: #f48c8f;
+	background-color: #d5554f;
+	border: 1px solid #d5554f;
+
+}
+
+.btn-sm{
+	color: #f0d8d9;
+}
+ .btn-md{
+
+ 	border: 1px solid #656d89;
+    border-radius: 50px;
+    color: #656d89;
+ }
+
+.Copyright{
+	border: 30px solid #2d2f39 ;
+	padding: 1px;
+	background-color:#2d2f39;
+	color: #666d89;
+}
